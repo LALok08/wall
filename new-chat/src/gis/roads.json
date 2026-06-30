@@ -1,0 +1,534 @@
+[
+  {
+    "id": "R_MAIN_LOOP",
+    "name": "Jalan Gelang Utama (Sehala)",
+    "type": "primary",
+    "width": 9,
+    "polyline": [
+      [
+        -290,
+        -35
+      ],
+      [
+        -290,
+        -150
+      ],
+      [
+        -200,
+        -225
+      ],
+      [
+        0,
+        -225
+      ],
+      [
+        190,
+        -225
+      ],
+      [
+        290,
+        -150
+      ],
+      [
+        290,
+        220
+      ],
+      [
+        90,
+        235
+      ],
+      [
+        -290,
+        160
+      ],
+      [
+        -290,
+        -35
+      ]
+    ]
+  },
+  {
+    "id": "R_ENTRY_ROUNDABOUT",
+    "name": "Bulatan Masuk / Keluar",
+    "type": "primary",
+    "width": 9,
+    "polyline": [
+      [
+        -342,
+        -20
+      ],
+      [
+        -318,
+        -10
+      ],
+      [
+        -300,
+        0
+      ],
+      [
+        -286,
+        -10
+      ],
+      [
+        -282,
+        -35
+      ],
+      [
+        -300,
+        -55
+      ],
+      [
+        -326,
+        -50
+      ],
+      [
+        -342,
+        -20
+      ]
+    ]
+  },
+  {
+    "id": "R_PERSIARAN_KM",
+    "name": "Persiaran Kayu Manis (dalam kampus)",
+    "type": "primary",
+    "width": 11,
+    "polyline": [
+      [
+        -320,
+        -260
+      ],
+      [
+        -320,
+        250
+      ]
+    ]
+  },
+  {
+    "id": "R_JALAN_PELAGA",
+    "name": "Jalan Pelaga (hadapan kampus)",
+    "type": "primary",
+    "width": 11,
+    "polyline": [
+      [
+        -320,
+        -260
+      ],
+      [
+        310,
+        -260
+      ]
+    ]
+  },
+  {
+    "id": "R_JALAN_BUNGA",
+    "name": "Jalan Bunga Lawang (dalam kampus)",
+    "type": "primary",
+    "width": 11,
+    "polyline": [
+      [
+        320,
+        -260
+      ],
+      [
+        332,
+        -190
+      ],
+      [
+        338,
+        -110
+      ],
+      [
+        332,
+        -35
+      ],
+      [
+        318,
+        40
+      ],
+      [
+        308,
+        125
+      ],
+      [
+        320,
+        250
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_PELAGA_W",
+    "name": "Jalan Pelaga — sambungan barat laut",
+    "type": "external",
+    "width": 12,
+    "polyline": [
+      [
+        -520,
+        -360
+      ],
+      [
+        -455,
+        -330
+      ],
+      [
+        -395,
+        -300
+      ],
+      [
+        -340,
+        -270
+      ],
+      [
+        -320,
+        -260
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_PELAGA_E",
+    "name": "Jalan Pelaga — sambungan timur",
+    "type": "external",
+    "width": 12,
+    "polyline": [
+      [
+        310,
+        -260
+      ],
+      [
+        395,
+        -258
+      ],
+      [
+        480,
+        -238
+      ],
+      [
+        545,
+        -210
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_KAYU_MANIS_N",
+    "name": "Persiaran Kayu Manis — sambungan utara",
+    "type": "external",
+    "width": 12,
+    "polyline": [
+      [
+        -320,
+        -260
+      ],
+      [
+        -350,
+        -305
+      ],
+      [
+        -415,
+        -345
+      ],
+      [
+        -500,
+        -370
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_KAYU_MANIS_S",
+    "name": "Persiaran Kayu Manis — sambungan selatan",
+    "type": "external",
+    "width": 12,
+    "polyline": [
+      [
+        -320,
+        250
+      ],
+      [
+        -323,
+        310
+      ],
+      [
+        -330,
+        385
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_BUNGA_LAWANG_E",
+    "name": "Jalan Bunga Lawang — sambungan ke perumahan timur",
+    "type": "external",
+    "width": 12,
+    "polyline": [
+      [
+        330,
+        -245
+      ],
+      [
+        392,
+        -220
+      ],
+      [
+        440,
+        -170
+      ],
+      [
+        452,
+        -100
+      ],
+      [
+        435,
+        -30
+      ],
+      [
+        382,
+        35
+      ],
+      [
+        330,
+        70
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_EXIT_S",
+    "name": "Jalan Keluar Selatan",
+    "type": "external",
+    "width": 12,
+    "polyline": [
+      [
+        92,
+        235
+      ],
+      [
+        125,
+        288
+      ],
+      [
+        160,
+        360
+      ]
+    ]
+  },
+  {
+    "id": "R_CENTRAL_NS",
+    "name": "Jalan Tengah (Jalan Cengkih)",
+    "type": "secondary",
+    "width": 7,
+    "polyline": [
+      [
+        0,
+        -225
+      ],
+      [
+        0,
+        -165
+      ],
+      [
+        0,
+        -40
+      ],
+      [
+        0,
+        220
+      ]
+    ]
+  },
+  {
+    "id": "R_ACADEMIC_SPINE",
+    "name": "Lorong Akademik",
+    "type": "secondary",
+    "width": 6,
+    "polyline": [
+      [
+        -290,
+        -80
+      ],
+      [
+        -245,
+        -80
+      ],
+      [
+        -200,
+        -80
+      ],
+      [
+        -120,
+        -80
+      ],
+      [
+        -35,
+        -80
+      ],
+      [
+        0,
+        -80
+      ]
+    ]
+  },
+  {
+    "id": "R_DATARAN_LOOP",
+    "name": "Jalan Dataran Pelajar",
+    "type": "secondary",
+    "width": 6,
+    "polyline": [
+      [
+        -290,
+        0
+      ],
+      [
+        -200,
+        0
+      ],
+      [
+        -100,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        -40
+      ]
+    ]
+  },
+  {
+    "id": "R_KAFE_A_ROAD",
+    "name": "Lorong Kafe A / Blok A",
+    "type": "secondary",
+    "width": 6,
+    "polyline": [
+      [
+        -290,
+        160
+      ],
+      [
+        -200,
+        160
+      ],
+      [
+        -95,
+        160
+      ],
+      [
+        0,
+        160
+      ]
+    ]
+  },
+  {
+    "id": "R_KAFE_B_ROAD",
+    "name": "Lorong Kafe B / Blok B",
+    "type": "secondary",
+    "width": 6,
+    "polyline": [
+      [
+        0,
+        160
+      ],
+      [
+        90,
+        160
+      ],
+      [
+        200,
+        160
+      ],
+      [
+        290,
+        220
+      ]
+    ]
+  },
+  {
+    "id": "R_EAST_BLOK_P",
+    "name": "Lorong Blok P (Timur)",
+    "type": "secondary",
+    "width": 5,
+    "polyline": [
+      [
+        200,
+        -225
+      ],
+      [
+        200,
+        -120
+      ],
+      [
+        200,
+        0
+      ],
+      [
+        200,
+        120
+      ],
+      [
+        200,
+        220
+      ]
+    ]
+  },
+  {
+    "id": "R_DATARAN_KAWAD",
+    "name": "Lorong Dataran Kawad",
+    "type": "path",
+    "width": 4,
+    "polyline": [
+      [
+        -290,
+        10
+      ],
+      [
+        -200,
+        10
+      ],
+      [
+        -160,
+        10
+      ],
+      [
+        -130,
+        10
+      ]
+    ]
+  },
+  {
+    "id": "R_MASJID_PATH",
+    "name": "Laluan Masjid",
+    "type": "path",
+    "width": 3,
+    "polyline": [
+      [
+        0,
+        0
+      ],
+      [
+        -12,
+        35
+      ],
+      [
+        -25,
+        55
+      ]
+    ]
+  },
+  {
+    "id": "R_PUSTAKA_PATH",
+    "name": "Laluan Pustaka",
+    "type": "path",
+    "width": 3,
+    "polyline": [
+      [
+        -140,
+        70
+      ],
+      [
+        -160,
+        88
+      ],
+      [
+        -180,
+        100
+      ]
+    ]
+  }
+]

@@ -1,0 +1,2260 @@
+[
+  {
+    "id": "B_GUARD",
+    "name": "Pondok Pengawal",
+    "category": "guard",
+    "color": "#7d8aa3",
+    "polygon": [
+      [
+        -306,
+        -4.5
+      ],
+      [
+        -294,
+        -4.5
+      ],
+      [
+        -294,
+        4.5
+      ],
+      [
+        -306,
+        4.5
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -300,
+      0
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 108,
+    "bbox": [
+      -306,
+      -4.5,
+      -294,
+      4.5
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_ASTAKA",
+    "name": "Astaka",
+    "category": "sports",
+    "color": "#56b87e",
+    "polygon": [
+      [
+        -262.5,
+        -217
+      ],
+      [
+        -207.5,
+        -217
+      ],
+      [
+        -207.5,
+        -187
+      ],
+      [
+        -262.5,
+        -187
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -235,
+      -202
+    ],
+    "height": 7.2,
+    "rotation": 0,
+    "floors": 2,
+    "area": 1650,
+    "bbox": [
+      -262.5,
+      -217,
+      -207.5,
+      -187
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_BBALL",
+    "name": "Gelanggang Bola Keranjang",
+    "category": "sports",
+    "color": "#56b87e",
+    "polygon": [
+      [
+        12,
+        -209.5
+      ],
+      [
+        44,
+        -209.5
+      ],
+      [
+        44,
+        -190.5
+      ],
+      [
+        12,
+        -190.5
+      ]
+    ],
+    "holes": [],
+    "center": [
+      28,
+      -200
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 608,
+    "bbox": [
+      12,
+      -209.5,
+      44,
+      -190.5
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_GLG_TENIS",
+    "name": "Gelanggang Tenis",
+    "category": "sports",
+    "color": "#56b87e",
+    "polygon": [
+      [
+        -178,
+        -211
+      ],
+      [
+        -142,
+        -211
+      ],
+      [
+        -142,
+        -189
+      ],
+      [
+        -178,
+        -189
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -160,
+      -200
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 792,
+    "bbox": [
+      -178,
+      -211,
+      -142,
+      -189
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_GLG_TENIS_E",
+    "name": "Gelanggang Tenis (Timur)",
+    "category": "sports",
+    "color": "#56b87e",
+    "polygon": [
+      [
+        190,
+        -160
+      ],
+      [
+        220,
+        -160
+      ],
+      [
+        220,
+        -140
+      ],
+      [
+        190,
+        -140
+      ]
+    ],
+    "holes": [],
+    "center": [
+      205,
+      -150
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 600,
+    "bbox": [
+      190,
+      -160,
+      220,
+      -140
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_VOLLEY",
+    "name": "Gelanggang Bola Tampar / Sepak Takraw",
+    "category": "sports",
+    "color": "#56b87e",
+    "polygon": [
+      [
+        -267,
+        -161
+      ],
+      [
+        -229,
+        -161
+      ],
+      [
+        -229,
+        -139
+      ],
+      [
+        -267,
+        -139
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -248,
+      -150
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 836,
+    "bbox": [
+      -267,
+      -161,
+      -229,
+      -139
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_FUTSAL",
+    "name": "Gelanggang Futsal / Badminton Outdoor",
+    "category": "sports",
+    "color": "#56b87e",
+    "polygon": [
+      [
+        -3,
+        -176
+      ],
+      [
+        39,
+        -176
+      ],
+      [
+        39,
+        -148
+      ],
+      [
+        -3,
+        -148
+      ]
+    ],
+    "holes": [],
+    "center": [
+      18,
+      -162
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1176,
+    "bbox": [
+      -3,
+      -176,
+      39,
+      -148
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_DEWAN",
+    "name": "Dewan Mahawangsa",
+    "category": "dewan",
+    "color": "#d99a3d",
+    "polygon": [
+      [
+        46,
+        -194
+      ],
+      [
+        134,
+        -194
+      ],
+      [
+        134,
+        -136
+      ],
+      [
+        46,
+        -136
+      ]
+    ],
+    "holes": [],
+    "center": [
+      90,
+      -165
+    ],
+    "height": 7.2,
+    "rotation": 0,
+    "floors": 2,
+    "area": 5104,
+    "bbox": [
+      46,
+      -194,
+      134,
+      -136
+    ],
+    "features": {
+      "bigRoof": true
+    }
+  },
+  {
+    "id": "B_GARAJ",
+    "name": "Garaj Bas",
+    "category": "admin",
+    "color": "#9aa3b0",
+    "polygon": [
+      [
+        161,
+        -194
+      ],
+      [
+        209,
+        -194
+      ],
+      [
+        209,
+        -166
+      ],
+      [
+        161,
+        -166
+      ]
+    ],
+    "holes": [],
+    "center": [
+      185,
+      -180
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1344,
+    "bbox": [
+      161,
+      -194,
+      209,
+      -166
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_SERI_JERAI",
+    "name": "Bangunan Seri Jerai (Pentadbiran)",
+    "category": "admin",
+    "color": "#7d8aa3",
+    "polygon": [
+      [
+        -267,
+        -101
+      ],
+      [
+        -189,
+        -101
+      ],
+      [
+        -189,
+        -55
+      ],
+      [
+        -267,
+        -55
+      ]
+    ],
+    "holes": [
+      [
+        [
+          -243.6,
+          -87.2
+        ],
+        [
+          -212.4,
+          -87.2
+        ],
+        [
+          -212.4,
+          -68.8
+        ],
+        [
+          -243.6,
+          -68.8
+        ]
+      ]
+    ],
+    "center": [
+      -228,
+      -78
+    ],
+    "height": 10.8,
+    "rotation": 0,
+    "floors": 3,
+    "area": 3013.9,
+    "bbox": [
+      -267,
+      -101,
+      -189,
+      -55
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_CAFE_ADMIN",
+    "name": "Cafe Admin",
+    "category": "cafe",
+    "color": "#e0795b",
+    "polygon": [
+      [
+        -174,
+        -113
+      ],
+      [
+        -142,
+        -113
+      ],
+      [
+        -142,
+        -93
+      ],
+      [
+        -174,
+        -93
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -158,
+      -103
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 640,
+    "bbox": [
+      -174,
+      -113,
+      -142,
+      -93
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_DEWAN_BAIDURI",
+    "name": "Dewan Baiduri",
+    "category": "dewan",
+    "color": "#d99a3d",
+    "polygon": [
+      [
+        -247,
+        -48
+      ],
+      [
+        -203,
+        -48
+      ],
+      [
+        -203,
+        -20
+      ],
+      [
+        -247,
+        -20
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -225,
+      -34
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1232,
+    "bbox": [
+      -247,
+      -48,
+      -203,
+      -20
+    ],
+    "features": {
+      "bigRoof": true
+    }
+  },
+  {
+    "id": "B_HEP_KAUNSELING",
+    "name": "Pejabat HEP & Kaunseling",
+    "category": "admin",
+    "color": "#7d8aa3",
+    "polygon": [
+      [
+        -264,
+        -94
+      ],
+      [
+        -226,
+        -94
+      ],
+      [
+        -226,
+        -66
+      ],
+      [
+        -264,
+        -66
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -245,
+      -80
+    ],
+    "height": 7.2,
+    "rotation": 0,
+    "floors": 2,
+    "area": 1064,
+    "bbox": [
+      -264,
+      -94,
+      -226,
+      -66
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_DK",
+    "name": "Dewan Kuliah",
+    "category": "academic",
+    "color": "#6b7fd7",
+    "polygon": [
+      [
+        -196,
+        7
+      ],
+      [
+        -134,
+        7
+      ],
+      [
+        -134,
+        53
+      ],
+      [
+        -196,
+        53
+      ]
+    ],
+    "holes": [
+      [
+        [
+          -180.5,
+          28.6
+        ],
+        [
+          -149.5,
+          28.6
+        ],
+        [
+          -149.5,
+          49.3
+        ],
+        [
+          -180.5,
+          49.3
+        ]
+      ]
+    ],
+    "center": [
+      -165,
+      30
+    ],
+    "height": 7.2,
+    "rotation": 0,
+    "floors": 2,
+    "area": 2210.3,
+    "bbox": [
+      -196,
+      7,
+      -134,
+      53
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_TUTORIAL",
+    "name": "Makmal & Bilik Tutorial",
+    "category": "academic",
+    "color": "#6b7fd7",
+    "polygon": [
+      [
+        -126,
+        6
+      ],
+      [
+        -30,
+        6
+      ],
+      [
+        -30,
+        58
+      ],
+      [
+        -126,
+        58
+      ]
+    ],
+    "holes": [
+      [
+        [
+          -98.2,
+          21.1
+        ],
+        [
+          -57.8,
+          21.1
+        ],
+        [
+          -57.8,
+          42.9
+        ],
+        [
+          -98.2,
+          42.9
+        ]
+      ]
+    ],
+    "center": [
+      -78,
+      32
+    ],
+    "height": 10.8,
+    "rotation": 0,
+    "floors": 3,
+    "area": 4111.3,
+    "bbox": [
+      -126,
+      6,
+      -30,
+      58
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_MASJID",
+    "name": "Masjid KMK",
+    "category": "masjid",
+    "color": "#3fa873",
+    "polygon": [
+      [
+        -48,
+        45
+      ],
+      [
+        -2,
+        45
+      ],
+      [
+        -2,
+        91
+      ],
+      [
+        -48,
+        91
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -25,
+      68
+    ],
+    "height": 7.2,
+    "rotation": 0,
+    "floors": 2,
+    "area": 2116,
+    "bbox": [
+      -48,
+      45,
+      -2,
+      91
+    ],
+    "features": {
+      "dome": true,
+      "minaret": true,
+      "domeRadius": 11,
+      "minaretHeight": 32
+    }
+  },
+  {
+    "id": "B_SERUMPUN",
+    "name": "Gerai Jualan / Serumpun",
+    "category": "cafe",
+    "color": "#e0795b",
+    "polygon": [
+      [
+        -47,
+        100
+      ],
+      [
+        -13,
+        100
+      ],
+      [
+        -13,
+        116
+      ],
+      [
+        -47,
+        116
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -30,
+      108
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 544,
+    "bbox": [
+      -47,
+      100,
+      -13,
+      116
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_PUSTAKA",
+    "name": "Pustaka (Perpustakaan)",
+    "category": "library",
+    "color": "#e0a040",
+    "polygon": [
+      [
+        -209,
+        78
+      ],
+      [
+        -151,
+        78
+      ],
+      [
+        -151,
+        122
+      ],
+      [
+        -209,
+        122
+      ]
+    ],
+    "holes": [
+      [
+        [
+          -177.7,
+          89
+        ],
+        [
+          -154.5,
+          89
+        ],
+        [
+          -154.5,
+          111
+        ],
+        [
+          -177.7,
+          111
+        ]
+      ]
+    ],
+    "center": [
+      -180,
+      100
+    ],
+    "height": 10.8,
+    "rotation": 0,
+    "floors": 3,
+    "area": 2041.6,
+    "bbox": [
+      -209,
+      78,
+      -151,
+      122
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_POS_MIN",
+    "name": "Pejabat Pos & Mini Market",
+    "category": "koop",
+    "color": "#56a7c4",
+    "polygon": [
+      [
+        -260,
+        91
+      ],
+      [
+        -230,
+        91
+      ],
+      [
+        -230,
+        113
+      ],
+      [
+        -260,
+        113
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -245,
+      102
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 660,
+    "bbox": [
+      -260,
+      91,
+      -230,
+      113
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_KOOP",
+    "name": "Koperasi & Kedai Buku (Koop Mait)",
+    "category": "koop",
+    "color": "#56a7c4",
+    "polygon": [
+      [
+        -203,
+        129
+      ],
+      [
+        -157,
+        129
+      ],
+      [
+        -157,
+        155
+      ],
+      [
+        -203,
+        155
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -180,
+      142
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1196,
+    "bbox": [
+      -203,
+      129,
+      -157,
+      155
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_ATM",
+    "name": "ATM",
+    "category": "koop",
+    "color": "#56a7c4",
+    "polygon": [
+      [
+        -248,
+        122.5
+      ],
+      [
+        -238,
+        122.5
+      ],
+      [
+        -238,
+        129.5
+      ],
+      [
+        -248,
+        129.5
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -243,
+      126
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 70,
+    "bbox": [
+      -248,
+      122.5,
+      -238,
+      129.5
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_LANGKASUKA",
+    "name": "Bangunan Langkasuka",
+    "category": "academic",
+    "color": "#6b7fd7",
+    "polygon": [
+      [
+        -263,
+        130
+      ],
+      [
+        -197,
+        130
+      ],
+      [
+        -197,
+        174
+      ],
+      [
+        -263,
+        174
+      ]
+    ],
+    "holes": [
+      [
+        [
+          -242.5,
+          143.6
+        ],
+        [
+          -217.5,
+          143.6
+        ],
+        [
+          -217.5,
+          160.4
+        ],
+        [
+          -242.5,
+          160.4
+        ]
+      ]
+    ],
+    "center": [
+      -230,
+      152
+    ],
+    "height": 10.8,
+    "rotation": 0,
+    "floors": 3,
+    "area": 2484,
+    "bbox": [
+      -263,
+      130,
+      -197,
+      174
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_A1",
+    "name": "Blok A1 (Asrama Lelaki)",
+    "category": "residence_m",
+    "color": "#5b9bd5",
+    "polygon": [
+      [
+        -163,
+        133
+      ],
+      [
+        -93,
+        133
+      ],
+      [
+        -93,
+        171
+      ],
+      [
+        -163,
+        171
+      ]
+    ],
+    "holes": [
+      [
+        [
+          -143.8,
+          143.4
+        ],
+        [
+          -112.3,
+          143.4
+        ],
+        [
+          -112.3,
+          160.6
+        ],
+        [
+          -143.8,
+          160.6
+        ]
+      ]
+    ],
+    "center": [
+      -128,
+      152
+    ],
+    "height": 18,
+    "rotation": 0,
+    "floors": 5,
+    "area": 2118.2,
+    "bbox": [
+      -163,
+      133,
+      -93,
+      171
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_A2",
+    "name": "Blok A2 (Asrama Lelaki)",
+    "category": "residence_m",
+    "color": "#5b9bd5",
+    "polygon": [
+      [
+        -90,
+        133
+      ],
+      [
+        -20,
+        133
+      ],
+      [
+        -20,
+        171
+      ],
+      [
+        -90,
+        171
+      ]
+    ],
+    "holes": [
+      [
+        [
+          -70.8,
+          143.4
+        ],
+        [
+          -39.3,
+          143.4
+        ],
+        [
+          -39.3,
+          160.6
+        ],
+        [
+          -70.8,
+          160.6
+        ]
+      ]
+    ],
+    "center": [
+      -55,
+      152
+    ],
+    "height": 18,
+    "rotation": 0,
+    "floors": 5,
+    "area": 2118.2,
+    "bbox": [
+      -90,
+      133,
+      -20,
+      171
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_BL",
+    "name": "Bangunan Langkasuka BL / Bilik Latihan",
+    "category": "academic",
+    "color": "#6b7fd7",
+    "polygon": [
+      [
+        -258,
+        175
+      ],
+      [
+        -218,
+        175
+      ],
+      [
+        -218,
+        201
+      ],
+      [
+        -258,
+        201
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -238,
+      188
+    ],
+    "height": 7.2,
+    "rotation": 0,
+    "floors": 2,
+    "area": 1040,
+    "bbox": [
+      -258,
+      175,
+      -218,
+      201
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_KAFE_A",
+    "name": "Kafe A",
+    "category": "cafe",
+    "color": "#e0795b",
+    "polygon": [
+      [
+        -124,
+        187
+      ],
+      [
+        -60,
+        187
+      ],
+      [
+        -60,
+        213
+      ],
+      [
+        -124,
+        213
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -92,
+      200
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1664,
+    "bbox": [
+      -124,
+      187,
+      -60,
+      213
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_C1",
+    "name": "Blok C1 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        127,
+        2
+      ],
+      [
+        183,
+        2
+      ],
+      [
+        183,
+        58
+      ],
+      [
+        127,
+        58
+      ]
+    ],
+    "holes": [
+      [
+        [
+          143.8,
+          18.8
+        ],
+        [
+          166.2,
+          18.8
+        ],
+        [
+          166.2,
+          41.2
+        ],
+        [
+          143.8,
+          41.2
+        ]
+      ]
+    ],
+    "center": [
+      155,
+      30
+    ],
+    "height": 21.6,
+    "rotation": 0,
+    "floors": 6,
+    "area": 2634.2,
+    "bbox": [
+      127,
+      2,
+      183,
+      58
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_C2",
+    "name": "Blok C2 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        57,
+        4
+      ],
+      [
+        113,
+        4
+      ],
+      [
+        113,
+        60
+      ],
+      [
+        57,
+        60
+      ]
+    ],
+    "holes": [
+      [
+        [
+          73.8,
+          20.8
+        ],
+        [
+          96.2,
+          20.8
+        ],
+        [
+          96.2,
+          43.2
+        ],
+        [
+          73.8,
+          43.2
+        ]
+      ]
+    ],
+    "center": [
+      85,
+      32
+    ],
+    "height": 21.6,
+    "rotation": 0,
+    "floors": 6,
+    "area": 2634.2,
+    "bbox": [
+      57,
+      4,
+      113,
+      60
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_B1",
+    "name": "Blok B1 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        59,
+        97
+      ],
+      [
+        117,
+        97
+      ],
+      [
+        117,
+        147
+      ],
+      [
+        59,
+        147
+      ]
+    ],
+    "holes": [
+      [
+        [
+          76.4,
+          112
+        ],
+        [
+          99.6,
+          112
+        ],
+        [
+          99.6,
+          132
+        ],
+        [
+          76.4,
+          132
+        ]
+      ]
+    ],
+    "center": [
+      88,
+      122
+    ],
+    "height": 18,
+    "rotation": 0,
+    "floors": 5,
+    "area": 2436,
+    "bbox": [
+      59,
+      97,
+      117,
+      147
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_B2",
+    "name": "Blok B2 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        132,
+        97
+      ],
+      [
+        188,
+        97
+      ],
+      [
+        188,
+        147
+      ],
+      [
+        132,
+        147
+      ]
+    ],
+    "holes": [
+      [
+        [
+          148.8,
+          112
+        ],
+        [
+          171.2,
+          112
+        ],
+        [
+          171.2,
+          132
+        ],
+        [
+          148.8,
+          132
+        ]
+      ]
+    ],
+    "center": [
+      160,
+      122
+    ],
+    "height": 18,
+    "rotation": 0,
+    "floors": 5,
+    "area": 2352,
+    "bbox": [
+      132,
+      97,
+      188,
+      147
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_KAFE_B",
+    "name": "Kafe B",
+    "category": "cafe",
+    "color": "#e0795b",
+    "polygon": [
+      [
+        62,
+        179
+      ],
+      [
+        128,
+        179
+      ],
+      [
+        128,
+        205
+      ],
+      [
+        62,
+        205
+      ]
+    ],
+    "holes": [],
+    "center": [
+      95,
+      192
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1716,
+    "bbox": [
+      62,
+      179,
+      128,
+      205
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_KAFE_C",
+    "name": "Kafe C",
+    "category": "cafe",
+    "color": "#e0795b",
+    "polygon": [
+      [
+        195,
+        -83
+      ],
+      [
+        255,
+        -83
+      ],
+      [
+        255,
+        -57
+      ],
+      [
+        195,
+        -57
+      ]
+    ],
+    "holes": [],
+    "center": [
+      225,
+      -70
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1560,
+    "bbox": [
+      195,
+      -83,
+      255,
+      -57
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_DADDY",
+    "name": "Daddy Corner",
+    "category": "cafe",
+    "color": "#e0795b",
+    "polygon": [
+      [
+        45,
+        -27
+      ],
+      [
+        65,
+        -27
+      ],
+      [
+        65,
+        -13
+      ],
+      [
+        45,
+        -13
+      ]
+    ],
+    "holes": [],
+    "center": [
+      55,
+      -20
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 280,
+    "bbox": [
+      45,
+      -27,
+      65,
+      -13
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_P1",
+    "name": "Blok P1 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        206,
+        5
+      ],
+      [
+        250,
+        5
+      ],
+      [
+        250,
+        45
+      ],
+      [
+        206,
+        45
+      ]
+    ],
+    "holes": [
+      [
+        [
+          219.6,
+          17.4
+        ],
+        [
+          236.4,
+          17.4
+        ],
+        [
+          236.4,
+          32.6
+        ],
+        [
+          219.6,
+          32.6
+        ]
+      ]
+    ],
+    "center": [
+      228,
+      25
+    ],
+    "height": 14.4,
+    "rotation": 0,
+    "floors": 4,
+    "area": 1504.6,
+    "bbox": [
+      206,
+      5,
+      250,
+      45
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_P2",
+    "name": "Blok P2 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        206,
+        60
+      ],
+      [
+        250,
+        60
+      ],
+      [
+        250,
+        100
+      ],
+      [
+        206,
+        100
+      ]
+    ],
+    "holes": [
+      [
+        [
+          219.6,
+          72.4
+        ],
+        [
+          236.4,
+          72.4
+        ],
+        [
+          236.4,
+          87.6
+        ],
+        [
+          219.6,
+          87.6
+        ]
+      ]
+    ],
+    "center": [
+      228,
+      80
+    ],
+    "height": 14.4,
+    "rotation": 0,
+    "floors": 4,
+    "area": 1504.6,
+    "bbox": [
+      206,
+      60,
+      250,
+      100
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_P3",
+    "name": "Blok P3 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        206,
+        112
+      ],
+      [
+        250,
+        112
+      ],
+      [
+        250,
+        152
+      ],
+      [
+        206,
+        152
+      ]
+    ],
+    "holes": [
+      [
+        [
+          219.6,
+          124.4
+        ],
+        [
+          236.4,
+          124.4
+        ],
+        [
+          236.4,
+          139.6
+        ],
+        [
+          219.6,
+          139.6
+        ]
+      ]
+    ],
+    "center": [
+      228,
+      132
+    ],
+    "height": 14.4,
+    "rotation": 0,
+    "floors": 4,
+    "area": 1504.6,
+    "bbox": [
+      206,
+      112,
+      250,
+      152
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_P4",
+    "name": "Blok P4 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        206,
+        158
+      ],
+      [
+        250,
+        158
+      ],
+      [
+        250,
+        198
+      ],
+      [
+        206,
+        198
+      ]
+    ],
+    "holes": [
+      [
+        [
+          219.6,
+          170.4
+        ],
+        [
+          236.4,
+          170.4
+        ],
+        [
+          236.4,
+          185.6
+        ],
+        [
+          219.6,
+          185.6
+        ]
+      ]
+    ],
+    "center": [
+      228,
+      178
+    ],
+    "height": 14.4,
+    "rotation": 0,
+    "floors": 4,
+    "area": 1504.6,
+    "bbox": [
+      206,
+      158,
+      250,
+      198
+    ],
+    "features": {
+      "corridor": true
+    }
+  },
+  {
+    "id": "B_P5",
+    "name": "Blok P5 (Asrama Perempuan)",
+    "category": "residence_f",
+    "color": "#e8557a",
+    "polygon": [
+      [
+        293.5,
+        -97.5
+      ],
+      [
+        325.8,
+        -87
+      ],
+      [
+        316.5,
+        -58.5
+      ],
+      [
+        284.2,
+        -69
+      ]
+    ],
+    "holes": [],
+    "center": [
+      305,
+      -78
+    ],
+    "height": 10.8,
+    "rotation": 0,
+    "floors": 3,
+    "area": 1018.2,
+    "bbox": [
+      284.2,
+      -97.5,
+      325.8,
+      -58.5
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_RUMAH_KJ",
+    "name": "Rumah Ketua Jabatan",
+    "category": "staff_house",
+    "color": "#b08bd6",
+    "polygon": [
+      [
+        271,
+        17
+      ],
+      [
+        299,
+        17
+      ],
+      [
+        299,
+        39
+      ],
+      [
+        271,
+        39
+      ]
+    ],
+    "holes": [],
+    "center": [
+      285,
+      28
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 616,
+    "bbox": [
+      271,
+      17,
+      299,
+      39
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_RUMAH_PENGARAH",
+    "name": "Rumah Pengarah",
+    "category": "staff_house",
+    "color": "#b08bd6",
+    "polygon": [
+      [
+        269,
+        157
+      ],
+      [
+        301,
+        157
+      ],
+      [
+        301,
+        183
+      ],
+      [
+        269,
+        183
+      ]
+    ],
+    "holes": [],
+    "center": [
+      285,
+      170
+    ],
+    "height": 7.2,
+    "rotation": 0,
+    "floors": 2,
+    "area": 832,
+    "bbox": [
+      269,
+      157,
+      301,
+      183
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_SEMAIAN",
+    "name": "Rumah Semaian Pokok (Nurseri)",
+    "category": "staff_house",
+    "color": "#7fae5a",
+    "polygon": [
+      [
+        260,
+        -190
+      ],
+      [
+        300,
+        -190
+      ],
+      [
+        300,
+        -160
+      ],
+      [
+        260,
+        -160
+      ]
+    ],
+    "holes": [],
+    "center": [
+      280,
+      -175
+    ],
+    "height": 3.6,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1200,
+    "bbox": [
+      260,
+      -190,
+      300,
+      -160
+    ],
+    "features": {}
+  },
+  {
+    "id": "B_PARKIR_STAF_ADMIN",
+    "name": "Parkir Staf Admin",
+    "category": "parking",
+    "color": "#8f97a3",
+    "polygon": [
+      [
+        -282,
+        -58
+      ],
+      [
+        -254,
+        -58
+      ],
+      [
+        -254,
+        -26
+      ],
+      [
+        -282,
+        -26
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -268,
+      -42
+    ],
+    "height": 0.18,
+    "rotation": 0,
+    "floors": 1,
+    "area": 896,
+    "bbox": [
+      -282,
+      -58,
+      -254,
+      -26
+    ],
+    "features": {
+      "parking": true
+    }
+  },
+  {
+    "id": "B_PARKIR_A1A2",
+    "name": "Parkir A1 & A2",
+    "category": "parking",
+    "color": "#8f97a3",
+    "polygon": [
+      [
+        -179,
+        98
+      ],
+      [
+        -131,
+        98
+      ],
+      [
+        -131,
+        126
+      ],
+      [
+        -179,
+        126
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -155,
+      112
+    ],
+    "height": 0.18,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1344,
+    "bbox": [
+      -179,
+      98,
+      -131,
+      126
+    ],
+    "features": {
+      "parking": true
+    }
+  },
+  {
+    "id": "B_PARKIR_B1B2",
+    "name": "Parkir B1 & B2",
+    "category": "parking",
+    "color": "#8f97a3",
+    "polygon": [
+      [
+        102,
+        168
+      ],
+      [
+        148,
+        168
+      ],
+      [
+        148,
+        188
+      ],
+      [
+        102,
+        188
+      ]
+    ],
+    "holes": [],
+    "center": [
+      125,
+      178
+    ],
+    "height": 0.18,
+    "rotation": 0,
+    "floors": 1,
+    "area": 920,
+    "bbox": [
+      102,
+      168,
+      148,
+      188
+    ],
+    "features": {
+      "parking": true
+    }
+  },
+  {
+    "id": "B_PARKIR_C2B2",
+    "name": "Parkir C2 & B2",
+    "category": "parking",
+    "color": "#8f97a3",
+    "polygon": [
+      [
+        182,
+        -83
+      ],
+      [
+        218,
+        -83
+      ],
+      [
+        218,
+        -27
+      ],
+      [
+        182,
+        -27
+      ]
+    ],
+    "holes": [],
+    "center": [
+      200,
+      -55
+    ],
+    "height": 0.18,
+    "rotation": 0,
+    "floors": 1,
+    "area": 2016,
+    "bbox": [
+      182,
+      -83,
+      218,
+      -27
+    ],
+    "features": {
+      "parking": true
+    }
+  },
+  {
+    "id": "B_PARKIR_DEWAN",
+    "name": "Parkir Dewan Mahawangsa",
+    "category": "parking",
+    "color": "#8f97a3",
+    "polygon": [
+      [
+        60,
+        -133
+      ],
+      [
+        120,
+        -133
+      ],
+      [
+        120,
+        -107
+      ],
+      [
+        60,
+        -107
+      ]
+    ],
+    "holes": [],
+    "center": [
+      90,
+      -120
+    ],
+    "height": 0.18,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1560,
+    "bbox": [
+      60,
+      -133,
+      120,
+      -107
+    ],
+    "features": {
+      "parking": true
+    }
+  },
+  {
+    "id": "B_PARKIR_STAF_PENSYARAH",
+    "name": "Parkir Staf & Pensyarah",
+    "category": "parking",
+    "color": "#8f97a3",
+    "polygon": [
+      [
+        -160,
+        -130
+      ],
+      [
+        -100,
+        -130
+      ],
+      [
+        -100,
+        -106
+      ],
+      [
+        -160,
+        -106
+      ]
+    ],
+    "holes": [],
+    "center": [
+      -130,
+      -118
+    ],
+    "height": 0.18,
+    "rotation": 0,
+    "floors": 1,
+    "area": 1440,
+    "bbox": [
+      -160,
+      -130,
+      -100,
+      -106
+    ],
+    "features": {
+      "parking": true
+    }
+  },
+  {
+    "id": "B_PARKIR_P5",
+    "name": "Parkir P5",
+    "category": "parking",
+    "color": "#8f97a3",
+    "polygon": [
+      [
+        273,
+        -121
+      ],
+      [
+        311,
+        -121
+      ],
+      [
+        311,
+        -99
+      ],
+      [
+        273,
+        -99
+      ]
+    ],
+    "holes": [],
+    "center": [
+      292,
+      -110
+    ],
+    "height": 0.18,
+    "rotation": 0,
+    "floors": 1,
+    "area": 836,
+    "bbox": [
+      273,
+      -121,
+      311,
+      -99
+    ],
+    "features": {
+      "parking": true
+    }
+  }
+]

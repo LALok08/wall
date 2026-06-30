@@ -1,0 +1,122 @@
+[
+  {
+    "id": "X_ENTRANCE_W",
+    "name": "Lintasan Zebra Pintu Masuk",
+    "center": [
+      -318,
+      -22
+    ],
+    "width": 11,
+    "length": 9,
+    "rotation": 12,
+    "stripes": 6
+  },
+  {
+    "id": "X_GUARD",
+    "name": "Lintasan Zebra Pondok Pengawal",
+    "center": [
+      -298,
+      -2
+    ],
+    "width": 9,
+    "length": 8,
+    "rotation": 90,
+    "stripes": 5
+  },
+  {
+    "id": "X_ASTAKA",
+    "name": "Lintasan Zebra Astaka / Padang",
+    "center": [
+      -225,
+      -175
+    ],
+    "width": 10,
+    "length": 9,
+    "rotation": 0,
+    "stripes": 6
+  },
+  {
+    "id": "X_DEWAN",
+    "name": "Lintasan Zebra Dewan Mahawangsa",
+    "center": [
+      58,
+      -130
+    ],
+    "width": 10,
+    "length": 9,
+    "rotation": 0,
+    "stripes": 6
+  },
+  {
+    "id": "X_CAFE_C",
+    "name": "Lintasan Zebra Kafe C",
+    "center": [
+      198,
+      -82
+    ],
+    "width": 9,
+    "length": 8,
+    "rotation": 90,
+    "stripes": 5
+  },
+  {
+    "id": "X_MASJID",
+    "name": "Lintasan Zebra Masjid",
+    "center": [
+      4,
+      -14
+    ],
+    "width": 8,
+    "length": 8,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_KAFE_A",
+    "name": "Lintasan Zebra Kafe A",
+    "center": [
+      -70,
+      174
+    ],
+    "width": 9,
+    "length": 8,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_KAFE_B",
+    "name": "Lintasan Zebra Kafe B",
+    "center": [
+      108,
+      176
+    ],
+    "width": 9,
+    "length": 8,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_EXIT_S",
+    "name": "Lintasan Zebra Keluar Selatan",
+    "center": [
+      96,
+      232
+    ],
+    "width": 11,
+    "length": 9,
+    "rotation": -35,
+    "stripes": 6
+  },
+  {
+    "id": "X_BUNGA_LAWANG",
+    "name": "Lintasan Zebra Jalan Bunga Lawang",
+    "center": [
+      320,
+      64
+    ],
+    "width": 10,
+    "length": 9,
+    "rotation": 86,
+    "stripes": 6
+  }
+]

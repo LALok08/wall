@@ -1,0 +1,25 @@
+{
+  "name": "Kolej Matrikulasi Kedah (KMK) — Digital Twin Campus",
+  "origin": {
+    "lat": 6.1248,
+    "lon": 100.3673
+  },
+  "crs": "local-ENU-metres",
+  "generatedAt": "2026-06-30T08:46:34.100Z",
+  "source": "Satellite + Pelan Aliran Trafik MPPB 2026/2027 + DXF vector",
+  "note": "Realistic scale. Buildings include courtyards (holes) and corridors. Masjid is a landmark with dome + minaret.",
+  "bounds": {
+    "minX": -565,
+    "maxX": 590,
+    "minZ": -415,
+    "maxZ": 430
+  },
+  "counts": {
+    "buildings": 48,
+    "roads": 20,
+    "greenspace": 13,
+    "trees": 103,
+    "corridors": 6,
+    "crossings": 10
+  }
+}
